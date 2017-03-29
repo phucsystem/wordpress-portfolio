@@ -1,0 +1,1107 @@
+# This file is distrubuted under the GPL-2.0+
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Firmness v1.0.5.1\n"
+"POT-Creation-Date: 2016-10-12 23:09-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vitaly Pinchev <info@vpthemes.com>\n"
+"Language-Team: Vitaly Pinchev <support@vmthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#: 404.php:13
+msgid "Sorry! It seems that the page you are looking for is not here."
+msgstr ""
+
+#: breadcrumbs.php:12
+msgid "Home"
+msgstr ""
+
+#: breadcrumbs.php:38
+msgid "Tag: "
+msgstr ""
+
+#: breadcrumbs.php:40 breadcrumbs.php:41 breadcrumbs.php:42
+msgid "Archive for "
+msgstr ""
+
+#: breadcrumbs.php:43
+msgid "Author: "
+msgstr ""
+
+#: breadcrumbs.php:44
+msgid "Blog Archives "
+msgstr ""
+
+#: breadcrumbs.php:45
+msgid "Search Results "
+msgstr ""
+
+#: breadcrumbs.php:46
+msgid "Blog Posts "
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33 comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found!"
+msgstr ""
+
+#: content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-single.php:29
+msgid "Tags:"
+msgstr ""
+
+#: content-single.php:31 image.php:40 page-fullwidth.php:33
+#: page-sidebarleft.php:33 page-sidebarright.php:33 page.php:37
+msgid "Pages:"
+msgstr ""
+
+#: copyright.php:10
+msgid "Firmness Theme"
+msgstr ""
+
+#: copyright.php:10
+msgid "http://vpthemes.com/firmness/"
+msgstr ""
+
+#: copyright.php:10
+msgid " powered by "
+msgstr ""
+
+#: copyright.php:10
+msgid "WordPress"
+msgstr ""
+
+#: copyright.php:10
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions/firmness-customizer.php:28
+msgid "If you like my work. Buy me a coffee."
+msgstr ""
+
+#: functions/firmness-customizer.php:38
+msgid "Theme Support"
+msgstr ""
+
+#: functions/firmness-customizer.php:39
+msgid "View Theme Demo"
+msgstr ""
+
+#: functions/firmness-customizer.php:40
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: functions/firmness-customizer.php:48
+msgid "Open Sans"
+msgstr ""
+
+#: functions/firmness-customizer.php:49
+msgid "Roboto"
+msgstr ""
+
+#: functions/firmness-customizer.php:68
+msgid "No Sidebars"
+msgstr ""
+
+#: functions/firmness-customizer.php:68
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions/firmness-customizer.php:68
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions/firmness-customizer.php:71
+msgid "Excerpt"
+msgstr ""
+
+#: functions/firmness-customizer.php:71
+msgid "Full Content"
+msgstr ""
+
+#: functions/firmness-customizer.php:75 functions/firmness-customizer.php:83
+msgid "Disable"
+msgstr ""
+
+#: functions/firmness-customizer.php:76 functions/firmness-functions.php:156
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/firmness-customizer.php:77
+msgid "Below Content"
+msgstr ""
+
+#: functions/firmness-customizer.php:84
+msgid "Above Content"
+msgstr ""
+
+#: functions/firmness-customizer.php:102
+msgid "Firmness Theme Options"
+msgstr ""
+
+#: functions/firmness-customizer.php:109
+msgid "Theme Information"
+msgstr ""
+
+#: functions/firmness-customizer.php:131
+msgid "General Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:144
+msgid "Theme Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:158
+msgid "Enable Favicon"
+msgstr ""
+
+#: functions/firmness-customizer.php:172
+msgid "Custom Favicon"
+msgstr ""
+
+#: functions/firmness-customizer.php:175
+msgid "Image size should be (16px x 16px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:187
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: functions/firmness-customizer.php:201
+msgid "Enable Animation"
+msgstr ""
+
+#: functions/firmness-customizer.php:215
+msgid "Enable Resposive Design"
+msgstr ""
+
+#: functions/firmness-customizer.php:229
+msgid "Enable Scrollup"
+msgstr ""
+
+#: functions/firmness-customizer.php:242
+msgid "ScrollUp Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:255
+msgid "ScrollUp Hover Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:265
+msgid "Logo Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:268
+msgid ""
+"To upload custom logo image - go to Appearance > Customize > Site Identity"
+msgstr ""
+
+#: functions/firmness-customizer.php:280
+msgid "Logo Width (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:294
+msgid "Logo Height (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:308
+msgid "Logo Top Margin (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:322
+msgid "Logo Left Margin (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:336
+msgid "Logo Bottom Margin (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:350
+msgid "Logo Right Margin (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:364
+msgid "Logo ALT Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:378
+msgid "Logo Uppercase"
+msgstr ""
+
+#: functions/firmness-customizer.php:393
+msgid "Select logo font family"
+msgstr ""
+
+#: functions/firmness-customizer.php:408
+msgid "Logo Font Size (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:422
+msgid "Logo Font Weight"
+msgstr ""
+
+#: functions/firmness-customizer.php:435
+msgid "Logo Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:449
+msgid "Display Tagline Underneath Logo"
+msgstr ""
+
+#: functions/firmness-customizer.php:463
+msgid "Tagline Font Size (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:476
+msgid "Tagline Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:490
+msgid "Tagline Uppercase"
+msgstr ""
+
+#: functions/firmness-customizer.php:504
+msgid "Tagline Bottom Margin (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:513
+msgid "Navigation Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:528
+msgid "Select Menu Font Family"
+msgstr ""
+
+#: functions/firmness-customizer.php:543
+msgid "Menu Font Size (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:557
+msgid "Menu Font Weight"
+msgstr ""
+
+#: functions/firmness-customizer.php:560
+msgid ""
+"Range from 100 to 900. Defines from thin to thick characters. 400 is the "
+"same as normal, and 700 is the same as bold."
+msgstr ""
+
+#: functions/firmness-customizer.php:572
+msgid "Menu Uppercase"
+msgstr ""
+
+#: functions/firmness-customizer.php:585
+msgid "Navigation Menu Font Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:598
+msgid "Navigation Menu Border Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:611
+msgid "Navigation Menu Background Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:624
+msgid "SubMenu Background Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:637
+msgid "Menu Hover Font Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:650
+msgid "Menu Background Hover Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:663
+msgid "Selected Menu Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:672
+msgid "Typography Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:687
+msgid "Select Body Font Family"
+msgstr ""
+
+#: functions/firmness-customizer.php:702
+msgid "Body Font Size (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:715
+msgid "Body Font Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:728
+msgid "a Link Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:737
+msgid "Header Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:751
+msgid "Display Header Address Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:765
+msgid "Address"
+msgstr ""
+
+#: functions/firmness-customizer.php:779
+msgid "Phone Number"
+msgstr ""
+
+#: functions/firmness-customizer.php:793
+msgid "Email"
+msgstr ""
+
+#: functions/firmness-customizer.php:807
+msgid "Address Font Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:821
+msgid "Display Header Social Links"
+msgstr ""
+
+#: functions/firmness-customizer.php:834
+msgid "Social Links Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:848
+msgid "Social Links Box Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:862
+msgid "Display Shopping Cart"
+msgstr ""
+
+#: functions/firmness-customizer.php:875
+msgid "Shopping Cart Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:889
+msgid "Display Header Search Form"
+msgstr ""
+
+#: functions/firmness-customizer.php:898
+msgid "Home Page Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:912
+msgid "Enable Image Slider"
+msgstr ""
+
+#: functions/firmness-customizer.php:927
+msgid "Display Features Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:941
+msgid "Display About Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:955
+msgid "Display Services Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:969
+msgid "Display Call To Action Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:983
+msgid "Display Content Boxes Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:997
+msgid "Display Latest News Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:1011
+msgid "Display Blog Posts"
+msgstr ""
+
+#: functions/firmness-customizer.php:1019
+msgid "Image Slider Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:1033
+msgid "Image Slider Height (px)"
+msgstr ""
+
+#: functions/firmness-customizer.php:1047
+msgid "Image Slider Category"
+msgstr ""
+
+#: functions/firmness-customizer.php:1063
+msgid "Slideshow Interval"
+msgstr ""
+
+#: functions/firmness-customizer.php:1066
+msgid "1000 = 1 second, default value: 5000"
+msgstr ""
+
+#: functions/firmness-customizer.php:1078
+msgid "Animation Speed"
+msgstr ""
+
+#: functions/firmness-customizer.php:1081
+msgid "1000 = 1 second, default value: 800"
+msgstr ""
+
+#: functions/firmness-customizer.php:1093
+msgid "Number of Slides"
+msgstr ""
+
+#: functions/firmness-customizer.php:1107
+msgid "Enable Slider Captions"
+msgstr ""
+
+#: functions/firmness-customizer.php:1121
+msgid "Caption Position Left %"
+msgstr ""
+
+#: functions/firmness-customizer.php:1135
+msgid "Caption Position Top %"
+msgstr ""
+
+#: functions/firmness-customizer.php:1149
+msgid "Caption Width %"
+msgstr ""
+
+#: functions/firmness-customizer.php:1162
+msgid "Caption Title Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1175
+msgid "Captions Text Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1188
+msgid "Captions Button Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1202
+msgid "Enable Captions Button"
+msgstr ""
+
+#: functions/firmness-customizer.php:1216
+msgid "Captions Button Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:1229
+msgid "Caption Background Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1238
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:1251
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1264
+msgid "Copyright Section Background Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1277
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1290
+msgid "Footer Widget Title Border Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1303
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1316
+msgid "Footer Widget Text Border Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1330
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: functions/firmness-customizer.php:1344
+msgid "Copyright Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:1352
+msgid "Layout Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:1367
+msgid "Theme Layout"
+msgstr ""
+
+#: functions/firmness-customizer.php:1376
+msgid "Blog Settings"
+msgstr ""
+
+#: functions/firmness-customizer.php:1391
+msgid "Blog Content"
+msgstr ""
+
+#: functions/firmness-customizer.php:1406
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: functions/firmness-customizer.php:1420
+msgid "Use Simple Pagination"
+msgstr ""
+
+#: functions/firmness-customizer.php:1435
+msgid "Post Navigation Links"
+msgstr ""
+
+#: functions/firmness-customizer.php:1451
+msgid "Post Info"
+msgstr ""
+
+#: functions/firmness-customizer.php:1466
+msgid "Featured Image Inside the Post"
+msgstr ""
+
+#: functions/firmness-customizer.php:1474
+msgid "Features Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:1487
+#: functions/firmness-customizer.php:1846
+#: functions/firmness-customizer.php:1921
+#: functions/firmness-customizer.php:2182
+#: functions/firmness-customizer.php:2285
+#: functions/firmness-customizer.php:2504
+msgid "Background Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1500
+#: functions/firmness-customizer.php:1859
+#: functions/firmness-customizer.php:1934
+#: functions/firmness-customizer.php:2561
+msgid "Title Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1513
+#: functions/firmness-customizer.php:1886
+#: functions/firmness-customizer.php:2311
+msgid "Text Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1527
+#: functions/firmness-customizer.php:1873
+#: functions/firmness-customizer.php:2548
+msgid "Title Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:1541
+#: functions/firmness-customizer.php:1975
+msgid "Description Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:1555
+msgid "Feature #1 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:1569
+msgid "Feature #1 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:1583
+msgid "Feature #1 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:1586
+#: functions/firmness-customizer.php:1657
+#: functions/firmness-customizer.php:1728
+#: functions/firmness-customizer.php:1799
+#: functions/firmness-customizer.php:2034
+#: functions/firmness-customizer.php:2077
+#: functions/firmness-customizer.php:2120
+#: functions/firmness-customizer.php:2163
+#: functions/firmness-customizer.php:2356
+#: functions/firmness-customizer.php:2413
+#: functions/firmness-customizer.php:2470
+#, php-format
+msgid ""
+"Enter Font Awesome icon name. For icon name refer to: <a href=\"%1$s\" "
+"target=\"_blank\">Font Awesome Website</a>"
+msgstr ""
+
+#: functions/firmness-customizer.php:1598
+msgid "Feature #1 Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:1612
+msgid "Feature #1 URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:1626
+msgid "Feature #2 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:1640
+msgid "Feature #2 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:1654
+msgid "Feature #2 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:1669
+msgid "Feature #2 Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:1683
+msgid "Feature #2 URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:1697
+msgid "Feature #3 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:1711
+msgid "Feature #3 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:1725
+msgid "Feature #3 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:1740
+msgid "Feature #3 Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:1754
+msgid "Feature #3 URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:1768
+msgid "Feature #4 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:1782
+msgid "Feature #4 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:1796
+msgid "Feature #4 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:1811
+msgid "Feature #4 Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:1825
+msgid "Feature #4 URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:1833
+msgid "About Us Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:1900
+#: functions/firmness-customizer.php:1961
+msgid "Section Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:1908
+msgid "Services Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:1947
+msgid "Section Text Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:1989
+msgid "Section Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:2003
+msgid "Service #1 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:2017
+msgid "Service #1 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:2031
+msgid "Service #1 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:2046
+msgid "Service #2 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:2060
+msgid "Service #2 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:2074
+msgid "Service #2 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:2089
+msgid "Service #3 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:2103
+msgid "Service #3 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:2117
+msgid "Service #3 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:2132
+msgid "Service #4 Title"
+msgstr ""
+
+#: functions/firmness-customizer.php:2146
+msgid "Service #4 Description"
+msgstr ""
+
+#: functions/firmness-customizer.php:2160
+msgid "Service #4 Icon"
+msgstr ""
+
+#: functions/firmness-customizer.php:2169
+msgid "Call To Action Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:2196
+msgid "Small Header Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:2209
+msgid "Small Header Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:2223
+msgid "Big Header Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:2236
+msgid "Big Header Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:2250
+msgid "Button Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:2264
+msgid "Button URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:2272
+msgid "Theme Content Boxes Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:2298
+msgid "Titles Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:2325
+msgid "First Column Header"
+msgstr ""
+
+#: functions/firmness-customizer.php:2339
+msgid "First Column Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:2353
+msgid "First Column Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:2368
+msgid "First Column URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:2382
+msgid "Second Column Header"
+msgstr ""
+
+#: functions/firmness-customizer.php:2396
+msgid "Second Column Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:2410
+msgid "Second Column Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:2425
+msgid "Second Column URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:2439
+msgid "Third Column Header"
+msgstr ""
+
+#: functions/firmness-customizer.php:2453
+msgid "Third Column Text"
+msgstr ""
+
+#: functions/firmness-customizer.php:2467
+msgid "Third Column Image"
+msgstr ""
+
+#: functions/firmness-customizer.php:2482
+msgid "Third Column URL"
+msgstr ""
+
+#: functions/firmness-customizer.php:2491
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/firmness-customizer.php:2518
+msgid "Latest News Category"
+msgstr ""
+
+#: functions/firmness-customizer.php:2534
+msgid "Number of Posts"
+msgstr ""
+
+#: functions/firmness-customizer.php:2574
+msgid "Post Title Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:2587
+msgid "Post Meta Color"
+msgstr ""
+
+#: functions/firmness-customizer.php:2595
+msgid "Social Links"
+msgstr ""
+
+#: functions/firmness-customizer.php:2598
+msgid "Enter your profile URL. To remove it, just leave it blank"
+msgstr ""
+
+#: functions/firmness-customizer.php:2610 social-header.php:11
+msgid "Facebook"
+msgstr ""
+
+#: functions/firmness-customizer.php:2624 social-header.php:16
+msgid "Flickr"
+msgstr ""
+
+#: functions/firmness-customizer.php:2638 social-header.php:21
+msgid "RSS"
+msgstr ""
+
+#: functions/firmness-customizer.php:2652 social-header.php:26
+msgid "Twitter"
+msgstr ""
+
+#: functions/firmness-customizer.php:2666
+msgid "Youtube"
+msgstr ""
+
+#: functions/firmness-customizer.php:2680 social-header.php:36
+msgid "Pinterest"
+msgstr ""
+
+#: functions/firmness-customizer.php:2694 social-header.php:41
+msgid "Tumblr"
+msgstr ""
+
+#: functions/firmness-customizer.php:2708
+msgid "Google Plus"
+msgstr ""
+
+#: functions/firmness-customizer.php:2722 social-header.php:51
+msgid "Dribbble"
+msgstr ""
+
+#: functions/firmness-customizer.php:2736 social-header.php:56
+msgid "LinkedIn"
+msgstr ""
+
+#: functions/firmness-customizer.php:2750 social-header.php:61
+msgid "Instagram"
+msgstr ""
+
+#: functions/firmness-customizer.php:2764
+msgid "Vimeo"
+msgstr ""
+
+#: functions/firmness-functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions/firmness-functions.php:165
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions/firmness-functions.php:174
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions/firmness-functions.php:183
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions/firmness-functions.php:192
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions/firmness-functions.php:234
+msgid "&larr; Previous"
+msgstr ""
+
+#: functions/firmness-functions.php:235
+msgid "Next &rarr;"
+msgstr ""
+
+#: functions/firmness-functions.php:310 functions/firmness-functions.php:318
+#: functions/firmness-functions.php:326
+#, fuzzy
+msgid "Read More"
+msgstr "Подробнее"
+
+#: header.php:62
+msgid "Toggle navigation"
+msgstr ""
+
+#: image.php:47 post-nav.php:8
+msgid "Next"
+msgstr ""
+
+#: image.php:48 post-nav.php:9
+msgid "Previous"
+msgstr ""
+
+#: owlpost-info.php:7 post-info.php:21
+msgid "by "
+msgstr ""
+
+#: post-formats.php:37 post-formats.php:60
+msgid "Continue Reading..."
+msgstr ""
+
+#: post-info.php:8
+msgid "Image"
+msgstr ""
+
+#: post-info.php:10
+msgid "Gallery"
+msgstr ""
+
+#: post-info.php:12
+msgid "Video"
+msgstr ""
+
+#: post-info.php:14
+msgid "Aside"
+msgstr ""
+
+#: post-info.php:16
+msgid "Audio"
+msgstr ""
+
+#: post-info.php:18
+msgid "Standard"
+msgstr ""
+
+#: post-info.php:25 post-meta.php:11
+msgid "No Comments"
+msgstr ""
+
+#: post-info.php:25 post-meta.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: post-info.php:25 post-meta.php:11
+msgid "% Comments"
+msgstr ""
+
+#: post-meta.php:13
+msgid "More"
+msgstr ""
+
+#: services-section.php:45
+msgid "Services"
+msgstr ""
+
+#: shopping-cart.php:9
+msgid "View your shopping cart"
+msgstr ""
+
+#: shopping-cart.php:9
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shopping-cart.php:14
+msgid "My Account"
+msgstr ""
+
+#: shopping-cart.php:17
+msgid "Login / Register"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Meta"
+msgstr ""
+
+#: social-header.php:31
+msgid "YouTube"
+msgstr ""
+
+#: social-header.php:46
+msgid "Google+"
+msgstr ""
